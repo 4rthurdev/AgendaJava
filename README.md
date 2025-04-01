@@ -66,10 +66,6 @@ $ mvn javafx:run
 - Melhorar o design da interface gráfica.
 - Adicionar notificações e lembretes para compromissos.
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo `LICENSE`.
-
 ## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma `Issue` ou enviar um `Pull Request`.
